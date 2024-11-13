@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EllioAce
+- 👋 Hi, I’m @AmyyLilyy
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C#
 - 📫 Give me and issue in the Project you spot has that issue (In CODE only!)
