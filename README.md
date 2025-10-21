@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ✨ @AmyyLilyy ✨
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Rust and low-level programming in general
+- 🌱 I’m currently learning C and low-level programming in general
 - 📫 Feed me bugs so I can become the best programmeress to ever live ✨
 
 <!---
